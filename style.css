@@ -1,0 +1,75 @@
+body{
+    margin: 0;
+    padding: 0;
+    /* background-color: red; */
+}
+
+header{
+    padding: 20px;
+    text-align: center;
+}
+
+header h1{
+    color: #98A458;
+    font-size: 45px;
+}
+
+header .contacts{
+    /* text-align: center !important; */
+    font-weight: bold;
+    color: #98A458;
+    /* display: flex; */
+}
+
+header p{
+    font-weight: bold;
+}
+
+
+header .contacts span{
+    color: black;
+}
+
+
+.content{
+
+    /* height: 10vh
+    
+    ; */
+}
+
+.cont-image{
+    text-align: center;
+    /* color: #ffffff; */
+    width: 100%;
+    display: flex;
+    padding: 0px;
+  
+    /* background-repeat: no-repeat; */
+
+}
+
+.content img{
+    height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+
+#cont-p{
+    background: url(./image/moringa.jpg);
+}
+
+#cont-p, .cont-li{
+    width: 50%;
+    font-size: 30px;
+
+}
+
+.footer{
+    padding: 30px;
+    text-align: center;
+}
+
+.footer h5{
+    font-size: 20px;
+}
