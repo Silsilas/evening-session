@@ -73,3 +73,16 @@ header .contacts span{
 .footer h5{
     font-size: 20px;
 }
+
+.mylogo{
+    float: right;
+}
+
+.btn{
+    background: red;
+    border: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+}
